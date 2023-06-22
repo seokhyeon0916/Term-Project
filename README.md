@@ -1,4 +1,4 @@
-# FindCertificationApplication
+# Term Project
 2023학년 1학기 파이썬 과학 기초프로그래밍 기말프로젝트
 
 # 개요
